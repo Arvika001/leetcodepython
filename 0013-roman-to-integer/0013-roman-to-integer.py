@@ -1,6 +1,6 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
-        roman_letters = {
+        romanLetters = {
             'I': 1,
             'V': 5,
             'X': 10,
@@ -14,7 +14,7 @@ class Solution:
         prev_value = 0
 
         for char in s[::-1]:
-            current_value = roman_letters[char]
+            current_value = romanLetters[char]
 
             if current_value < prev_value:
                 result -= current_value
