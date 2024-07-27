@@ -32,3 +32,4 @@ class Solution:
                 totalCost += distances[srcIndex][tgtIndex]
 
         return totalCost
+        
