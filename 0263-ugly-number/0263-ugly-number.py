@@ -10,6 +10,4 @@ class Solution:
                 n //= 5
     
             return n == 1
-  
-
-      
+          
