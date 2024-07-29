@@ -6,7 +6,7 @@ class Solution:
             graph[u].append((v, w))
             graph[v].append((u, w))
 
-        def dijkstra(source):
+        def dijkstra(source: int) -> int:
             # Min-heap priority queue
             min_heap = [(0, source)]  # (distance, city)
             distances = {i: float('inf') for i in range(n)}
@@ -28,8 +28,8 @@ class Solution:
                         heapq.heappush(min_heap, (distance, neighbor))
 
             # Count reachable cities within the distance threshold
-            reachable_cities = sum(1 for dist in distances.values() if dist <= distanceThreshold)
-            return reachable_cities
+            reachable_count = sum(1 for dist in distances.values() if dist <= distanceThreshold)
+            return reachable_count
 
         min_reachable = float('inf')
         city_with_min_reachable = -1
