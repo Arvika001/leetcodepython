@@ -7,7 +7,7 @@ var numTeams = function(rating) {
     let teams = 0;
 
     // Iterate through each soldier as the middle member of the team
-    for (let j = 1; j < n - 1; j++) {
+    for (let j = 0; j < n; j++) {
         let countSmallerLeft = 0;
         let countLargerLeft = 0;
         let countSmallerRight = 0;
@@ -32,7 +32,7 @@ var numTeams = function(rating) {
         }
 
         // Calculate the number of valid teams with j as the middle member
-        teams += (countLargerLeft * countSmallerRight) + (countSmallerLeft * countLargerRight);
+        teams += countLargerLeft * countSmallerRight + countSmallerLeft * countLargerRight;
     }
 
     return teams;
