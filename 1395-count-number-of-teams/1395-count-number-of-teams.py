@@ -1,5 +1,3 @@
-from typing import List
-
 class Solution:
     def numTeams(self, rating: List[int]) -> int:
         n = len(rating)
@@ -27,6 +25,7 @@ class Solution:
                     countSmallerRight += 1
 
             # Calculate the number of valid teams with j as the middle member
-            teams += (countLargerLeft * countSmallerRight) + (countSmallerLeft * countLargerRight)
+            teams += countLargerLeft * countSmallerRight  # Increasing team
+            teams += countSmallerLeft * countLargerRight  # Decreasing team
 
         return teams
