@@ -11,5 +11,4 @@ class Solution:
                 folder_name = log[:-1]
                 stack.append(folder_name)
         return len(stack)
-                
         
