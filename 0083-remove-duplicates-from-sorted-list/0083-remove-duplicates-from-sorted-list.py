@@ -5,15 +5,15 @@
 #         self.next = next
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        current = head
+        # Base case: if the list is empty or has only one node
+        if not head or not head.next:
+            return head
         
-        # Traverse the linked list
-        while current and current.next:
-            if current.val == current.next.val:
-                # Skip the duplicate node
-                current.next = current.next.next
-            else:
-                # Move to the next node
-                current = current.next
-        
-        return head        
+        # If the current node's value is equal to the next node's value
+        if head.val == head.next.val:
+            # Skip the next node and recursively call for the rest of the list
+            return self.deleteDuplicates(head.next)
+        else:
+            # Otherwise, keep the current node and link it to the result of the recursive call
+            head.next = self.deleteDuplicates(head.next)
+            return head
