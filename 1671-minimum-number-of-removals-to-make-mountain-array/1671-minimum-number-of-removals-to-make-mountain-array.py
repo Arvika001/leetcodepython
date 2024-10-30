@@ -1,6 +1,3 @@
-from typing import List
-import bisect
-
 class Solution:
     def minimumMountainRemovals(self, nums: List[int]) -> int:
         n = len(nums)
