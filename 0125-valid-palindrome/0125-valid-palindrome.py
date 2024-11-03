@@ -1,7 +1,22 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        # Normalize the string: convert to lowercase and filter non-alphanumeric characters
-        normalized_str = ''.join(char.lower() for char in s if char.isalnum())
+        left, right = 0, len(s) - 1
         
-        # Check if the normalized string is equal to its reverse
-        return normalized_str == normalized_str[::-1]
+        while left < right:
+            # Move left pointer to the next valid character
+            while left < right and not s[left].isalnum():
+                left += 1
+            
+            # Move right pointer to the previous valid character
+            while left < right and not s[right].isalnum():
+                right -= 1
+            
+            # Compare characters in lowercase
+            if s[left].lower() != s[right].lower():
+                return False
+            
+            # Move both pointers inward
+            left += 1
+            right -= 1
+        
+        return True
