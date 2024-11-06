@@ -28,3 +28,4 @@ class Solution:
             previous_max = current_max
         
         return True
+    
