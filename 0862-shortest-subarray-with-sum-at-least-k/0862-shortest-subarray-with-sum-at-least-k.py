@@ -24,4 +24,3 @@ class Solution:
             dq.append(i)
         
         return min_length if min_length != float('inf') else -1
-
