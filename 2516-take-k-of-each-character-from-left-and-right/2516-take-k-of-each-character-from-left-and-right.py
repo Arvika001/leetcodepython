@@ -1,5 +1,3 @@
-from collections import Counter
-
 class Solution:
     def takeCharacters(self, s: str, k: int) -> int:
         # Count occurrences of each character in s
