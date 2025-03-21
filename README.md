@@ -7,12 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Arvika001/leetcodepython/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Arvika001/leetcodepython/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Arvika001/leetcodepython/tree/master/2308-divide-array-into-equal-pairs) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Arvika001/leetcodepython/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Arvika001/leetcodepython/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Arvika001/leetcodepython/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Arvika001/leetcodepython/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
@@ -26,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0213-house-robber-ii](https://github.com/Arvika001/leetcodepython/tree/master/0213-house-robber-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Arvika001/leetcodepython/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Arvika001/leetcodepython/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Arvika001/leetcodepython/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Arvika001/leetcodepython/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Arvika001/leetcodepython/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -89,5 +92,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Arvika001/leetcodepython/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Arvika001/leetcodepython/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Arvika001/leetcodepython/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
