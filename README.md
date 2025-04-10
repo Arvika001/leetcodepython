@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Arvika001/leetcodepython/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1970-sorting-the-sentence](https://github.com/Arvika001/leetcodepython/tree/master/1970-sorting-the-sentence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Arvika001/leetcodepython/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Arvika001/leetcodepython/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Arvika001/leetcodepython/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Arvika001/leetcodepython/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Arvika001/leetcodepython/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Arvika001/leetcodepython/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Arvika001/leetcodepython/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Tree
 |  |
 | ------- |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arvika001/leetcodepython/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Arvika001/leetcodepython/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Arvika001/leetcodepython/tree/master/3001-apply-operations-to-maximize-score) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Arvika001/leetcodepython/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3625-stone-removal-game](https://github.com/Arvika001/leetcodepython/tree/master/3625-stone-removal-game) |
 ## Matrix
 |  |
