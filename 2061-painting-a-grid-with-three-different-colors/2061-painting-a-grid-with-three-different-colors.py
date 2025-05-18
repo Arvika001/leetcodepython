@@ -32,4 +32,5 @@ class Solution:
                     g[i] = (g[i] + f[j]) % mod
             f = g
         return sum(f) % mod
+            
              
