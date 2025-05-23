@@ -187,18 +187,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Arvika001/leetcodepython/tree/master/0100-same-tree) |
 | [0337-house-robber-iii](https://github.com/Arvika001/leetcodepython/tree/master/0337-house-robber-iii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Arvika001/leetcodepython/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Arvika001/leetcodepython/tree/master/0100-same-tree) |
 | [0337-house-robber-iii](https://github.com/Arvika001/leetcodepython/tree/master/0337-house-robber-iii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Arvika001/leetcodepython/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Arvika001/leetcodepython/tree/master/0100-same-tree) |
 | [0337-house-robber-iii](https://github.com/Arvika001/leetcodepython/tree/master/0337-house-robber-iii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Queue
@@ -230,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Arvika001/leetcodepython/tree/master/0100-same-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Arvika001/leetcodepython/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Arvika001/leetcodepython/tree/master/2793-count-the-number-of-complete-components) |
