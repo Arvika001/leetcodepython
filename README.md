@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Arvika001/leetcodepython/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Arvika001/leetcodepython/tree/master/0101-symmetric-tree) |
 | [0337-house-robber-iii](https://github.com/Arvika001/leetcodepython/tree/master/0337-house-robber-iii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Arvika001/leetcodepython/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Arvika001/leetcodepython/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Arvika001/leetcodepython/tree/master/0101-symmetric-tree) |
 | [0337-house-robber-iii](https://github.com/Arvika001/leetcodepython/tree/master/0337-house-robber-iii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Arvika001/leetcodepython/tree/master/2793-count-the-number-of-complete-components) |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Arvika001/leetcodepython/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Arvika001/leetcodepython/tree/master/0101-symmetric-tree) |
 | [0337-house-robber-iii](https://github.com/Arvika001/leetcodepython/tree/master/0337-house-robber-iii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Queue
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Arvika001/leetcodepython/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Arvika001/leetcodepython/tree/master/0101-symmetric-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Arvika001/leetcodepython/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Arvika001/leetcodepython/tree/master/2793-count-the-number-of-complete-components) |
