@@ -451,4 +451,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Arvika001/leetcodepython/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Arvika001/leetcodepython/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
