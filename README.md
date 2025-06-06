@@ -432,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Arvika001/leetcodepython/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/Arvika001/leetcodepython/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
@@ -470,4 +471,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Arvika001/leetcodepython/tree/master/1137-height-checker) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Arvika001/leetcodepython/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
