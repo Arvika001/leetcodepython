@@ -472,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Arvika001/leetcodepython/tree/master/0182-duplicate-emails) |
+| [0577-employee-bonus](https://github.com/Arvika001/leetcodepython/tree/master/0577-employee-bonus) |
 ## Counting Sort
 |  |
 | ------- |
