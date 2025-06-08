@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Arvika001/leetcodepython/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Arvika001/leetcodepython/tree/master/0337-house-robber-iii) |
+| [0386-lexicographical-numbers](https://github.com/Arvika001/leetcodepython/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Arvika001/leetcodepython/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Arvika001/leetcodepython/tree/master/2793-count-the-number-of-complete-components) |
@@ -481,4 +482,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Arvika001/leetcodepython/tree/master/0206-reverse-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Arvika001/leetcodepython/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
