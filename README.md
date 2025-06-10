@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3430-count-days-without-meetings](https://github.com/Arvika001/leetcodepython/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arvika001/leetcodepython/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Arvika001/leetcodepython/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Arvika001/leetcodepython/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Arvika001/leetcodepython/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arvika001/leetcodepython/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Arvika001/leetcodepython/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Arvika001/leetcodepython/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Arvika001/leetcodepython/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Arvika001/leetcodepython/tree/master/3430-count-days-without-meetings) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Arvika001/leetcodepython/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/Arvika001/leetcodepython/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Arvika001/leetcodepython/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
@@ -413,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Arvika001/leetcodepython/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Arvika001/leetcodepython/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arvika001/leetcodepython/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Arvika001/leetcodepython/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/Arvika001/leetcodepython/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Stack
 |  |
