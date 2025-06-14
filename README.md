@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Arvika001/leetcodepython/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Arvika001/leetcodepython/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/Arvika001/leetcodepython/tree/master/3690-smallest-substring-with-identical-characters-i) |
+| [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Arvika001/leetcodepython/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Arvika001/leetcodepython/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Bit Manipulation
 |  |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Arvika001/leetcodepython/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Arvika001/leetcodepython/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Arvika001/leetcodepython/tree/master/3637-count-number-of-balanced-permutations) |
+| [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Arvika001/leetcodepython/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Tree
 |  |
 | ------- |
