@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Arvika001/leetcodepython/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Arvika001/leetcodepython/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Arvika001/leetcodepython/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Arvika001/leetcodepython/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Arvika001/leetcodepython/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/Arvika001/leetcodepython/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/Arvika001/leetcodepython/tree/master/1970-sorting-the-sentence) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/Arvika001/leetcodepython/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Arvika001/leetcodepython/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Arvika001/leetcodepython/tree/master/0797-rabbits-in-forest) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Arvika001/leetcodepython/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arvika001/leetcodepython/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Arvika001/leetcodepython/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arvika001/leetcodepython/tree/master/1993-sum-of-all-subset-xor-totals) |
