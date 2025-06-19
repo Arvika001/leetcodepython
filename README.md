@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Arvika001/leetcodepython/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arvika001/leetcodepython/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Arvika001/leetcodepython/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Arvika001/leetcodepython/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Arvika001/leetcodepython/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1656-count-good-triplets](https://github.com/Arvika001/leetcodepython/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arvika001/leetcodepython/tree/master/1993-sum-of-all-subset-xor-totals) |
