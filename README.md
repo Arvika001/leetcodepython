@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Arvika001/leetcodepython/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/Arvika001/leetcodepython/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Arvika001/leetcodepython/tree/master/0416-partition-equal-subset-sum) |
+| [0605-can-place-flowers](https://github.com/Arvika001/leetcodepython/tree/master/0605-can-place-flowers) |
 | [0797-rabbits-in-forest](https://github.com/Arvika001/leetcodepython/tree/master/0797-rabbits-in-forest) |
 | [0945-snakes-and-ladders](https://github.com/Arvika001/leetcodepython/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Arvika001/leetcodepython/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0135-candy](https://github.com/Arvika001/leetcodepython/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Arvika001/leetcodepython/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/Arvika001/leetcodepython/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/Arvika001/leetcodepython/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Arvika001/leetcodepython/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Arvika001/leetcodepython/tree/master/1049-minimum-domino-rotations-for-equal-row) |
