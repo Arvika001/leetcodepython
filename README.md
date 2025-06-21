@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/Arvika001/leetcodepython/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Arvika001/leetcodepython/tree/master/0136-single-number) |
 | [0213-house-robber-ii](https://github.com/Arvika001/leetcodepython/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/Arvika001/leetcodepython/tree/master/0238-product-of-array-except-self) |
 | [0368-largest-divisible-subset](https://github.com/Arvika001/leetcodepython/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Arvika001/leetcodepython/tree/master/0416-partition-equal-subset-sum) |
 | [0605-can-place-flowers](https://github.com/Arvika001/leetcodepython/tree/master/0605-can-place-flowers) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Arvika001/leetcodepython/tree/master/0238-product-of-array-except-self) |
 | [2249-count-the-hidden-sequences](https://github.com/Arvika001/leetcodepython/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Arvika001/leetcodepython/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/Arvika001/leetcodepython/tree/master/2915-count-of-interesting-subarrays) |
