@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Arvika001/leetcodepython/tree/master/0011-container-with-most-water) |
 | [0073-set-matrix-zeroes](https://github.com/Arvika001/leetcodepython/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Arvika001/leetcodepython/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/Arvika001/leetcodepython/tree/master/0119-pascals-triangle-ii) |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Arvika001/leetcodepython/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Arvika001/leetcodepython/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Arvika001/leetcodepython/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Arvika001/leetcodepython/tree/master/0283-move-zeroes) |
@@ -444,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Arvika001/leetcodepython/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Arvika001/leetcodepython/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Arvika001/leetcodepython/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Arvika001/leetcodepython/tree/master/0605-can-place-flowers) |
