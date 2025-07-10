@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Arvika001/leetcodepython/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Arvika001/leetcodepython/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Arvika001/leetcodepython/tree/master/0437-path-sum-iii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Arvika001/leetcodepython/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Arvika001/leetcodepython/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Arvika001/leetcodepython/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Arvika001/leetcodepython/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Arvika001/leetcodepython/tree/master/0437-path-sum-iii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Arvika001/leetcodepython/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Arvika001/leetcodepython/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -676,4 +678,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Arvika001/leetcodepython/tree/master/0969-number-of-recent-calls) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Arvika001/leetcodepython/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
