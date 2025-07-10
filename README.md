@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/Arvika001/leetcodepython/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Arvika001/leetcodepython/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Arvika001/leetcodepython/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/Arvika001/leetcodepython/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/Arvika001/leetcodepython/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/Arvika001/leetcodepython/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Arvika001/leetcodepython/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Arvika001/leetcodepython/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/Arvika001/leetcodepython/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Arvika001/leetcodepython/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Arvika001/leetcodepython/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Queue
@@ -398,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Arvika001/leetcodepython/tree/master/0199-binary-tree-right-side-view) |
 | [0945-snakes-and-ladders](https://github.com/Arvika001/leetcodepython/tree/master/0945-snakes-and-ladders) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Arvika001/leetcodepython/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Arvika001/leetcodepython/tree/master/2588-maximum-number-of-points-from-grid-queries) |
