@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Arvika001/leetcodepython/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/Arvika001/leetcodepython/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Arvika001/leetcodepython/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arvika001/leetcodepython/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Arvika001/leetcodepython/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Arvika001/leetcodepython/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Bit Manipulation
@@ -557,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arvika001/leetcodepython/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Arvika001/leetcodepython/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/Arvika001/leetcodepython/tree/master/3647-zero-array-transformation-iii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arvika001/leetcodepython/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Arvika001/leetcodepython/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Monotonic Stack
 |  |
@@ -595,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3548-find-the-count-of-good-integers](https://github.com/Arvika001/leetcodepython/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Arvika001/leetcodepython/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/Arvika001/leetcodepython/tree/master/3690-smallest-substring-with-identical-characters-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arvika001/leetcodepython/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Arvika001/leetcodepython/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Recursion
 |  |
