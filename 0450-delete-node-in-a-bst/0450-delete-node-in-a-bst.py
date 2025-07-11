@@ -24,4 +24,3 @@ class Solution:
         node.left = root.left
         root = root.right
         return root
-        
