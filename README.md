@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0385-mini-parser](https://github.com/Arvika001/leetcodepython/tree/master/0385-mini-parser) |
 | [0392-is-subsequence](https://github.com/Arvika001/leetcodepython/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Arvika001/leetcodepython/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Arvika001/leetcodepython/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/Arvika001/leetcodepython/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Arvika001/leetcodepython/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Arvika001/leetcodepython/tree/master/0768-partition-labels) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Arvika001/leetcodepython/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Arvika001/leetcodepython/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/Arvika001/leetcodepython/tree/master/0368-largest-divisible-subset) |
+| [0399-evaluate-division](https://github.com/Arvika001/leetcodepython/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/Arvika001/leetcodepython/tree/master/0416-partition-equal-subset-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arvika001/leetcodepython/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Arvika001/leetcodepython/tree/master/0605-can-place-flowers) |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/Arvika001/leetcodepython/tree/master/0337-house-robber-iii) |
 | [0385-mini-parser](https://github.com/Arvika001/leetcodepython/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/Arvika001/leetcodepython/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/Arvika001/leetcodepython/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Arvika001/leetcodepython/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/Arvika001/leetcodepython/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Arvika001/leetcodepython/tree/master/0871-keys-and-rooms) |
@@ -380,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Arvika001/leetcodepython/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Arvika001/leetcodepython/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Arvika001/leetcodepython/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Arvika001/leetcodepython/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -388,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Arvika001/leetcodepython/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Arvika001/leetcodepython/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Arvika001/leetcodepython/tree/master/0871-keys-and-rooms) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Arvika001/leetcodepython/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -414,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Arvika001/leetcodepython/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Arvika001/leetcodepython/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/Arvika001/leetcodepython/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Arvika001/leetcodepython/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Arvika001/leetcodepython/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/Arvika001/leetcodepython/tree/master/0945-snakes-and-ladders) |
@@ -428,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Arvika001/leetcodepython/tree/master/0399-evaluate-division) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Arvika001/leetcodepython/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arvika001/leetcodepython/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Arvika001/leetcodepython/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
