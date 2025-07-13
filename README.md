@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Arvika001/leetcodepython/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/Arvika001/leetcodepython/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Arvika001/leetcodepython/tree/master/0136-single-number) |
+| [0198-house-robber](https://github.com/Arvika001/leetcodepython/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arvika001/leetcodepython/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Arvika001/leetcodepython/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Arvika001/leetcodepython/tree/master/0238-product-of-array-except-self) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Arvika001/leetcodepython/tree/master/0032-longest-valid-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/Arvika001/leetcodepython/tree/master/0119-pascals-triangle-ii) |
+| [0198-house-robber](https://github.com/Arvika001/leetcodepython/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arvika001/leetcodepython/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/Arvika001/leetcodepython/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/Arvika001/leetcodepython/tree/master/0368-largest-divisible-subset) |
