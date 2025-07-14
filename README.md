@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Arvika001/leetcodepython/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Arvika001/leetcodepython/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Arvika001/leetcodepython/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Arvika001/leetcodepython/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/Arvika001/leetcodepython/tree/master/0797-rabbits-in-forest) |
 | [0945-snakes-and-ladders](https://github.com/Arvika001/leetcodepython/tree/master/0945-snakes-and-ladders) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arvika001/leetcodepython/tree/master/1046-max-consecutive-ones-iii) |
@@ -568,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0385-mini-parser](https://github.com/Arvika001/leetcodepython/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/Arvika001/leetcodepython/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Arvika001/leetcodepython/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Arvika001/leetcodepython/tree/master/0739-daily-temperatures) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Arvika001/leetcodepython/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arvika001/leetcodepython/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Arvika001/leetcodepython/tree/master/3001-apply-operations-to-maximize-score) |
@@ -606,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Arvika001/leetcodepython/tree/master/0739-daily-temperatures) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Arvika001/leetcodepython/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
 |  |
