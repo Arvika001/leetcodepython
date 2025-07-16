@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2479-meeting-rooms-iii](https://github.com/Arvika001/leetcodepython/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arvika001/leetcodepython/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Arvika001/leetcodepython/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Arvika001/leetcodepython/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Arvika001/leetcodepython/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Arvika001/leetcodepython/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Arvika001/leetcodepython/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Arvika001/leetcodepython/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Arvika001/leetcodepython/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arvika001/leetcodepython/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Arvika001/leetcodepython/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Arvika001/leetcodepython/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Arvika001/leetcodepython/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Arvika001/leetcodepython/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -551,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arvika001/leetcodepython/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Arvika001/leetcodepython/tree/master/2413-smallest-number-in-infinite-set) |
 | [2479-meeting-rooms-iii](https://github.com/Arvika001/leetcodepython/tree/master/2479-meeting-rooms-iii) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Arvika001/leetcodepython/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Arvika001/leetcodepython/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Arvika001/leetcodepython/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2636-maximum-subsequence-score](https://github.com/Arvika001/leetcodepython/tree/master/2636-maximum-subsequence-score) |
@@ -566,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Arvika001/leetcodepython/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/Arvika001/leetcodepython/tree/master/2048-build-array-from-permutation) |
 | [2479-meeting-rooms-iii](https://github.com/Arvika001/leetcodepython/tree/master/2479-meeting-rooms-iii) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Arvika001/leetcodepython/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Arvika001/leetcodepython/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Arvika001/leetcodepython/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3625-stone-removal-game](https://github.com/Arvika001/leetcodepython/tree/master/3625-stone-removal-game) |
