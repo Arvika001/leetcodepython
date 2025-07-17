@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Arvika001/leetcodepython/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Arvika001/leetcodepython/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Arvika001/leetcodepython/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Arvika001/leetcodepython/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Arvika001/leetcodepython/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arvika001/leetcodepython/tree/master/0345-reverse-vowels-of-a-string) |
 | [0385-mini-parser](https://github.com/Arvika001/leetcodepython/tree/master/0385-mini-parser) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Arvika001/leetcodepython/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Arvika001/leetcodepython/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/Arvika001/leetcodepython/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Arvika001/leetcodepython/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arvika001/leetcodepython/tree/master/0213-house-robber-ii) |
