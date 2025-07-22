@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Arvika001/leetcodepython/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Arvika001/leetcodepython/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Arvika001/leetcodepython/tree/master/0768-partition-labels) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/Arvika001/leetcodepython/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0868-push-dominoes](https://github.com/Arvika001/leetcodepython/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Arvika001/leetcodepython/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Arvika001/leetcodepython/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -552,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Arvika001/leetcodepython/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Arvika001/leetcodepython/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Arvika001/leetcodepython/tree/master/0768-partition-labels) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/Arvika001/leetcodepython/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0868-push-dominoes](https://github.com/Arvika001/leetcodepython/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arvika001/leetcodepython/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/Arvika001/leetcodepython/tree/master/1894-merge-strings-alternately) |
