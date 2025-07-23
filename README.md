@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Arvika001/leetcodepython/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arvika001/leetcodepython/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Arvika001/leetcodepython/tree/master/1777-determine-if-two-strings-are-close) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Arvika001/leetcodepython/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Arvika001/leetcodepython/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/Arvika001/leetcodepython/tree/master/1970-sorting-the-sentence) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Arvika001/leetcodepython/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -602,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Arvika001/leetcodepython/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Arvika001/leetcodepython/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Arvika001/leetcodepython/tree/master/0739-daily-temperatures) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Arvika001/leetcodepython/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Arvika001/leetcodepython/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arvika001/leetcodepython/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Arvika001/leetcodepython/tree/master/3001-apply-operations-to-maximize-score) |
@@ -618,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/Arvika001/leetcodepython/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Arvika001/leetcodepython/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Arvika001/leetcodepython/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Arvika001/leetcodepython/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arvika001/leetcodepython/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arvika001/leetcodepython/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Arvika001/leetcodepython/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
