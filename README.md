@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2479-meeting-rooms-iii](https://github.com/Arvika001/leetcodepython/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arvika001/leetcodepython/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Arvika001/leetcodepython/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Arvika001/leetcodepython/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Arvika001/leetcodepython/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Arvika001/leetcodepython/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Arvika001/leetcodepython/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Arvika001/leetcodepython/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/Arvika001/leetcodepython/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Arvika001/leetcodepython/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Arvika001/leetcodepython/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Arvika001/leetcodepython/tree/master/3183-find-the-k-or-of-an-array) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Arvika001/leetcodepython/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Arvika001/leetcodepython/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -808,4 +810,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Arvika001/leetcodepython/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Arvika001/leetcodepython/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
