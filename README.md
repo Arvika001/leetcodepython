@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Arvika001/leetcodepython/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Arvika001/leetcodepython/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Arvika001/leetcodepython/tree/master/0797-rabbits-in-forest) |
+| [0833-bus-routes](https://github.com/Arvika001/leetcodepython/tree/master/0833-bus-routes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arvika001/leetcodepython/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Arvika001/leetcodepython/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Arvika001/leetcodepython/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Arvika001/leetcodepython/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/Arvika001/leetcodepython/tree/master/0797-rabbits-in-forest) |
+| [0833-bus-routes](https://github.com/Arvika001/leetcodepython/tree/master/0833-bus-routes) |
 | [0945-snakes-and-ladders](https://github.com/Arvika001/leetcodepython/tree/master/0945-snakes-and-ladders) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arvika001/leetcodepython/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Arvika001/leetcodepython/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -469,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Arvika001/leetcodepython/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/Arvika001/leetcodepython/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Arvika001/leetcodepython/tree/master/0547-number-of-provinces) |
+| [0833-bus-routes](https://github.com/Arvika001/leetcodepython/tree/master/0833-bus-routes) |
 | [0871-keys-and-rooms](https://github.com/Arvika001/leetcodepython/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/Arvika001/leetcodepython/tree/master/0945-snakes-and-ladders) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
