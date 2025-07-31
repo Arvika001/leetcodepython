@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Arvika001/leetcodepython/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/Arvika001/leetcodepython/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/Arvika001/leetcodepython/tree/master/0833-bus-routes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Arvika001/leetcodepython/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Arvika001/leetcodepython/tree/master/0945-snakes-and-ladders) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arvika001/leetcodepython/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Arvika001/leetcodepython/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/Arvika001/leetcodepython/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Arvika001/leetcodepython/tree/master/0136-single-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Arvika001/leetcodepython/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Arvika001/leetcodepython/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arvika001/leetcodepython/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arvika001/leetcodepython/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Arvika001/leetcodepython/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Arvika001/leetcodepython/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Arvika001/leetcodepython/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Arvika001/leetcodepython/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1236-n-th-tribonacci-number](https://github.com/Arvika001/leetcodepython/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/Arvika001/leetcodepython/tree/master/1836-count-ways-to-make-array-with-product) |
