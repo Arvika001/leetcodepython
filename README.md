@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Arvika001/leetcodepython/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Arvika001/leetcodepython/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Arvika001/leetcodepython/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Arvika001/leetcodepython/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Arvika001/leetcodepython/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/Arvika001/leetcodepython/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Arvika001/leetcodepython/tree/master/0136-single-number) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Arvika001/leetcodepython/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Arvika001/leetcodepython/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/Arvika001/leetcodepython/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/Arvika001/leetcodepython/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Arvika001/leetcodepython/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Arvika001/leetcodepython/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Arvika001/leetcodepython/tree/master/0213-house-robber-ii) |
