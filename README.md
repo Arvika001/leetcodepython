@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Arvika001/leetcodepython/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Arvika001/leetcodepython/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/Arvika001/leetcodepython/tree/master/0833-bus-routes) |
+| [0940-fruit-into-baskets](https://github.com/Arvika001/leetcodepython/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arvika001/leetcodepython/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Arvika001/leetcodepython/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arvika001/leetcodepython/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arvika001/leetcodepython/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Arvika001/leetcodepython/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/Arvika001/leetcodepython/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arvika001/leetcodepython/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Arvika001/leetcodepython/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arvika001/leetcodepython/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/Arvika001/leetcodepython/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/Arvika001/leetcodepython/tree/master/0833-bus-routes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arvika001/leetcodepython/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Arvika001/leetcodepython/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Arvika001/leetcodepython/tree/master/0945-snakes-and-ladders) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arvika001/leetcodepython/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Arvika001/leetcodepython/tree/master/1049-minimum-domino-rotations-for-equal-row) |
