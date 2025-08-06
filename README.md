@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Arvika001/leetcodepython/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Arvika001/leetcodepython/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arvika001/leetcodepython/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3791-fruits-into-baskets-iii](https://github.com/Arvika001/leetcodepython/tree/master/3791-fruits-into-baskets-iii) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Arvika001/leetcodepython/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Bit Manipulation
 |  |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-zero-array-transformation-ii](https://github.com/Arvika001/leetcodepython/tree/master/3643-zero-array-transformation-ii) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/Arvika001/leetcodepython/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/Arvika001/leetcodepython/tree/master/3706-smallest-substring-with-identical-characters-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Arvika001/leetcodepython/tree/master/3791-fruits-into-baskets-iii) |
 ## Counting
 |  |
 | ------- |
@@ -755,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Arvika001/leetcodepython/tree/master/2280-count-good-triplets-in-an-array) |
+| [3791-fruits-into-baskets-iii](https://github.com/Arvika001/leetcodepython/tree/master/3791-fruits-into-baskets-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -764,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Arvika001/leetcodepython/tree/master/2280-count-good-triplets-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Arvika001/leetcodepython/tree/master/2413-smallest-number-in-infinite-set) |
+| [3791-fruits-into-baskets-iii](https://github.com/Arvika001/leetcodepython/tree/master/3791-fruits-into-baskets-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
