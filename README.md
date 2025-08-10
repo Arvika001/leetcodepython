@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arvika001/leetcodepython/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arvika001/leetcodepython/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arvika001/leetcodepython/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3809-properties-graph](https://github.com/Arvika001/leetcodepython/tree/master/3809-properties-graph) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Arvika001/leetcodepython/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
 |  |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Arvika001/leetcodepython/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arvika001/leetcodepython/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3791-fruits-into-baskets-iii](https://github.com/Arvika001/leetcodepython/tree/master/3791-fruits-into-baskets-iii) |
+| [3809-properties-graph](https://github.com/Arvika001/leetcodepython/tree/master/3809-properties-graph) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Arvika001/leetcodepython/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Bit Manipulation
 |  |
@@ -431,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2793-count-the-number-of-complete-components](https://github.com/Arvika001/leetcodepython/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Arvika001/leetcodepython/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Arvika001/leetcodepython/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3809-properties-graph](https://github.com/Arvika001/leetcodepython/tree/master/3809-properties-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -463,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Arvika001/leetcodepython/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Arvika001/leetcodepython/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Arvika001/leetcodepython/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3809-properties-graph](https://github.com/Arvika001/leetcodepython/tree/master/3809-properties-graph) |
 ## Graph
 |  |
 | ------- |
@@ -481,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Arvika001/leetcodepython/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arvika001/leetcodepython/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Arvika001/leetcodepython/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3809-properties-graph](https://github.com/Arvika001/leetcodepython/tree/master/3809-properties-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -507,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2793-count-the-number-of-complete-components](https://github.com/Arvika001/leetcodepython/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Arvika001/leetcodepython/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Arvika001/leetcodepython/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3809-properties-graph](https://github.com/Arvika001/leetcodepython/tree/master/3809-properties-graph) |
 ## Shortest Path
 |  |
 | ------- |
