@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/Arvika001/leetcodepython/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Arvika001/leetcodepython/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/Arvika001/leetcodepython/tree/master/1970-sorting-the-sentence) |
+| [2001-jump-game-vii](https://github.com/Arvika001/leetcodepython/tree/master/2001-jump-game-vii) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Arvika001/leetcodepython/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arvika001/leetcodepython/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Arvika001/leetcodepython/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Arvika001/leetcodepython/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Arvika001/leetcodepython/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arvika001/leetcodepython/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2001-jump-game-vii](https://github.com/Arvika001/leetcodepython/tree/master/2001-jump-game-vii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Arvika001/leetcodepython/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Arvika001/leetcodepython/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Arvika001/leetcodepython/tree/master/2478-longest-nice-subarray) |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Arvika001/leetcodepython/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arvika001/leetcodepython/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Arvika001/leetcodepython/tree/master/1833-find-the-highest-altitude) |
+| [2001-jump-game-vii](https://github.com/Arvika001/leetcodepython/tree/master/2001-jump-game-vii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Arvika001/leetcodepython/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/Arvika001/leetcodepython/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Arvika001/leetcodepython/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -374,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1836-count-ways-to-make-array-with-product](https://github.com/Arvika001/leetcodepython/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arvika001/leetcodepython/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Arvika001/leetcodepython/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2001-jump-game-vii](https://github.com/Arvika001/leetcodepython/tree/master/2001-jump-game-vii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Arvika001/leetcodepython/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Arvika001/leetcodepython/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Arvika001/leetcodepython/tree/master/2090-number-of-ways-to-arrive-at-destination) |
