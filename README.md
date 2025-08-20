@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Arvika001/leetcodepython/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arvika001/leetcodepython/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Arvika001/leetcodepython/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Arvika001/leetcodepython/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1656-count-good-triplets](https://github.com/Arvika001/leetcodepython/tree/master/1656-count-good-triplets) |
 | [1833-find-the-highest-altitude](https://github.com/Arvika001/leetcodepython/tree/master/1833-find-the-highest-altitude) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/Arvika001/leetcodepython/tree/master/1836-count-ways-to-make-array-with-product) |
@@ -695,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/Arvika001/leetcodepython/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Arvika001/leetcodepython/tree/master/0735-asteroid-collision) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Arvika001/leetcodepython/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2048-build-array-from-permutation](https://github.com/Arvika001/leetcodepython/tree/master/2048-build-array-from-permutation) |
 | [2479-meeting-rooms-iii](https://github.com/Arvika001/leetcodepython/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Arvika001/leetcodepython/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -905,6 +907,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 |  |
 | ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Arvika001/leetcodepython/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Arvika001/leetcodepython/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Probability and Statistics
 |  |
