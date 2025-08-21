@@ -393,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/Arvika001/leetcodepython/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Arvika001/leetcodepython/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1617-stone-game-iv](https://github.com/Arvika001/leetcodepython/tree/master/1617-stone-game-iv) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Arvika001/leetcodepython/tree/master/1628-count-submatrices-with-all-ones) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/Arvika001/leetcodepython/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arvika001/leetcodepython/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -613,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arvika001/leetcodepython/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Arvika001/leetcodepython/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Arvika001/leetcodepython/tree/master/1500-count-largest-group) |
+| [1617-stone-game-iv](https://github.com/Arvika001/leetcodepython/tree/master/1617-stone-game-iv) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/Arvika001/leetcodepython/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arvika001/leetcodepython/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Arvika001/leetcodepython/tree/master/2050-count-good-numbers) |
@@ -919,4 +921,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0826-soup-servings](https://github.com/Arvika001/leetcodepython/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Arvika001/leetcodepython/tree/master/0867-new-21-game) |
+## Game Theory
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Arvika001/leetcodepython/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
