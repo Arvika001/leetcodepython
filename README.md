@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arvika001/leetcodepython/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Arvika001/leetcodepython/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Arvika001/leetcodepython/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Arvika001/leetcodepython/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/Arvika001/leetcodepython/tree/master/1656-count-good-triplets) |
 | [1833-find-the-highest-altitude](https://github.com/Arvika001/leetcodepython/tree/master/1833-find-the-highest-altitude) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/Arvika001/leetcodepython/tree/master/1836-count-ways-to-make-array-with-product) |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/Arvika001/leetcodepython/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Arvika001/leetcodepython/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Arvika001/leetcodepython/tree/master/1628-count-submatrices-with-all-ones) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/Arvika001/leetcodepython/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arvika001/leetcodepython/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Arvika001/leetcodepython/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -639,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Arvika001/leetcodepython/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/Arvika001/leetcodepython/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Arvika001/leetcodepython/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Arvika001/leetcodepython/tree/master/1628-count-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Arvika001/leetcodepython/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Arvika001/leetcodepython/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Arvika001/leetcodepython/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -711,6 +714,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Arvika001/leetcodepython/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Arvika001/leetcodepython/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Arvika001/leetcodepython/tree/master/0739-daily-temperatures) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Arvika001/leetcodepython/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Arvika001/leetcodepython/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Arvika001/leetcodepython/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arvika001/leetcodepython/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -760,6 +764,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Arvika001/leetcodepython/tree/master/0739-daily-temperatures) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Arvika001/leetcodepython/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Arvika001/leetcodepython/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
 |  |
