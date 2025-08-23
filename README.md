@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3430-count-days-without-meetings](https://github.com/Arvika001/leetcodepython/tree/master/3430-count-days-without-meetings) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Arvika001/leetcodepython/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Arvika001/leetcodepython/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/Arvika001/leetcodepython/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Arvika001/leetcodepython/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Arvika001/leetcodepython/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Arvika001/leetcodepython/tree/master/3605-construct-the-minimum-bitwise-array-i) |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arvika001/leetcodepython/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Arvika001/leetcodepython/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Arvika001/leetcodepython/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/Arvika001/leetcodepython/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Arvika001/leetcodepython/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Arvika001/leetcodepython/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Arvika001/leetcodepython/tree/master/3629-total-characters-in-string-after-transformations-i) |
