@@ -392,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Arvika001/leetcodepython/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Arvika001/leetcodepython/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Arvika001/leetcodepython/tree/master/0416-partition-equal-subset-sum) |
+| [0552-student-attendance-record-ii](https://github.com/Arvika001/leetcodepython/tree/master/0552-student-attendance-record-ii) |
 | [0806-domino-and-tromino-tiling](https://github.com/Arvika001/leetcodepython/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Arvika001/leetcodepython/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Arvika001/leetcodepython/tree/master/0867-new-21-game) |
