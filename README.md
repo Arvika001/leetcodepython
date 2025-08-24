@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Arvika001/leetcodepython/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Arvika001/leetcodepython/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Arvika001/leetcodepython/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arvika001/leetcodepython/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2001-jump-game-vii](https://github.com/Arvika001/leetcodepython/tree/master/2001-jump-game-vii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Arvika001/leetcodepython/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Arvika001/leetcodepython/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Arvika001/leetcodepython/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arvika001/leetcodepython/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Arvika001/leetcodepython/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arvika001/leetcodepython/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arvika001/leetcodepython/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Arvika001/leetcodepython/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Arvika001/leetcodepython/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/Arvika001/leetcodepython/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Arvika001/leetcodepython/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arvika001/leetcodepython/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1617-stone-game-iv](https://github.com/Arvika001/leetcodepython/tree/master/1617-stone-game-iv) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Arvika001/leetcodepython/tree/master/1628-count-submatrices-with-all-ones) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/Arvika001/leetcodepython/tree/master/1836-count-ways-to-make-array-with-product) |
