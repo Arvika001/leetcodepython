@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Arvika001/leetcodepython/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/Arvika001/leetcodepython/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Arvika001/leetcodepython/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Arvika001/leetcodepython/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Arvika001/leetcodepython/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Arvika001/leetcodepython/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Arvika001/leetcodepython/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3637-count-number-of-balanced-permutations](https://github.com/Arvika001/leetcodepython/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Arvika001/leetcodepython/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Arvika001/leetcodepython/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Arvika001/leetcodepython/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Tree
 |  |
 | ------- |
@@ -671,6 +673,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arvika001/leetcodepython/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Arvika001/leetcodepython/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Arvika001/leetcodepython/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Arvika001/leetcodepython/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Arvika001/leetcodepython/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Arvika001/leetcodepython/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Two Pointers
@@ -882,6 +885,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Arvika001/leetcodepython/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Arvika001/leetcodepython/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arvika001/leetcodepython/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Arvika001/leetcodepython/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Database
 |  |
 | ------- |
