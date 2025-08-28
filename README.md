@@ -289,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3748-sort-matrix-by-diagonals](https://github.com/Arvika001/leetcodepython/tree/master/3748-sort-matrix-by-diagonals) |
 | [3762-maximize-the-minimum-game-score](https://github.com/Arvika001/leetcodepython/tree/master/3762-maximize-the-minimum-game-score) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Arvika001/leetcodepython/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3778-transform-array-by-parity](https://github.com/Arvika001/leetcodepython/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arvika001/leetcodepython/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3791-fruits-into-baskets-iii](https://github.com/Arvika001/leetcodepython/tree/master/3791-fruits-into-baskets-iii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Arvika001/leetcodepython/tree/master/3799-unique-3-digit-even-numbers) |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Arvika001/leetcodepython/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arvika001/leetcodepython/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arvika001/leetcodepython/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3778-transform-array-by-parity](https://github.com/Arvika001/leetcodepython/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Arvika001/leetcodepython/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3885-count-special-triplets](https://github.com/Arvika001/leetcodepython/tree/master/3885-count-special-triplets) |
 ## Prefix Sum
@@ -614,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Arvika001/leetcodepython/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Arvika001/leetcodepython/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Arvika001/leetcodepython/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3778-transform-array-by-parity](https://github.com/Arvika001/leetcodepython/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Arvika001/leetcodepython/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Arvika001/leetcodepython/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Math
