@@ -628,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Arvika001/leetcodepython/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/Arvika001/leetcodepython/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Arvika001/leetcodepython/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Arvika001/leetcodepython/tree/master/0326-power-of-three) |
@@ -861,6 +862,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Arvika001/leetcodepython/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Arvika001/leetcodepython/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Arvika001/leetcodepython/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Arvika001/leetcodepython/tree/master/0326-power-of-three) |
