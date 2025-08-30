@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Arvika001/leetcodepython/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Arvika001/leetcodepython/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arvika001/leetcodepython/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Arvika001/leetcodepython/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Arvika001/leetcodepython/tree/master/1777-determine-if-two-strings-are-close) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Arvika001/leetcodepython/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Arvika001/leetcodepython/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Arvika001/leetcodepython/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Arvika001/leetcodepython/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Arvika001/leetcodepython/tree/master/1628-count-submatrices-with-all-ones) |
+| [1635-number-of-good-pairs](https://github.com/Arvika001/leetcodepython/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/Arvika001/leetcodepython/tree/master/1656-count-good-triplets) |
 | [1833-find-the-highest-altitude](https://github.com/Arvika001/leetcodepython/tree/master/1833-find-the-highest-altitude) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/Arvika001/leetcodepython/tree/master/1836-count-ways-to-make-array-with-product) |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/Arvika001/leetcodepython/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arvika001/leetcodepython/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arvika001/leetcodepython/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Arvika001/leetcodepython/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Arvika001/leetcodepython/tree/master/1777-determine-if-two-strings-are-close) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Arvika001/leetcodepython/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arvika001/leetcodepython/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -645,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/Arvika001/leetcodepython/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Arvika001/leetcodepython/tree/master/1500-count-largest-group) |
 | [1617-stone-game-iv](https://github.com/Arvika001/leetcodepython/tree/master/1617-stone-game-iv) |
+| [1635-number-of-good-pairs](https://github.com/Arvika001/leetcodepython/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Arvika001/leetcodepython/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/Arvika001/leetcodepython/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arvika001/leetcodepython/tree/master/1993-sum-of-all-subset-xor-totals) |
