@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arvika001/leetcodepython/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Arvika001/leetcodepython/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Arvika001/leetcodepython/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Arvika001/leetcodepython/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Arvika001/leetcodepython/tree/master/0073-set-matrix-zeroes) |
 | [0409-longest-palindrome](https://github.com/Arvika001/leetcodepython/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arvika001/leetcodepython/tree/master/0594-longest-harmonious-subsequence) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arvika001/leetcodepython/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Arvika001/leetcodepython/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Arvika001/leetcodepython/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Arvika001/leetcodepython/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Arvika001/leetcodepython/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Arvika001/leetcodepython/tree/master/0075-sort-colors) |
@@ -679,6 +681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Arvika001/leetcodepython/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Arvika001/leetcodepython/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Arvika001/leetcodepython/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Arvika001/leetcodepython/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/Arvika001/leetcodepython/tree/master/0945-snakes-and-ladders) |
@@ -824,6 +827,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arvika001/leetcodepython/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Arvika001/leetcodepython/tree/master/0037-sudoku-solver) |
 | [0216-combination-sum-iii](https://github.com/Arvika001/leetcodepython/tree/master/0216-combination-sum-iii) |
 | [0679-24-game](https://github.com/Arvika001/leetcodepython/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arvika001/leetcodepython/tree/master/1993-sum-of-all-subset-xor-totals) |
