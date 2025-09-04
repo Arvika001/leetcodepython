@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arvika001/leetcodepython/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arvika001/leetcodepython/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Arvika001/leetcodepython/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/Arvika001/leetcodepython/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Arvika001/leetcodepython/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sliding Window
 |  |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Arvika001/leetcodepython/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Arvika001/leetcodepython/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Arvika001/leetcodepython/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/Arvika001/leetcodepython/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 ## Tree
 |  |
 | ------- |
@@ -735,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/Arvika001/leetcodepython/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Arvika001/leetcodepython/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Arvika001/leetcodepython/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/Arvika001/leetcodepython/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
