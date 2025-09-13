@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3799-unique-3-digit-even-numbers](https://github.com/Arvika001/leetcodepython/tree/master/3799-unique-3-digit-even-numbers) |
 | [3809-properties-graph](https://github.com/Arvika001/leetcodepython/tree/master/3809-properties-graph) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Arvika001/leetcodepython/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arvika001/leetcodepython/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/Arvika001/leetcodepython/tree/master/3885-count-special-triplets) |
 ## String
 |  |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Arvika001/leetcodepython/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/Arvika001/leetcodepython/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Arvika001/leetcodepython/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arvika001/leetcodepython/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arvika001/leetcodepython/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3778-transform-array-by-parity](https://github.com/Arvika001/leetcodepython/tree/master/3778-transform-array-by-parity) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Arvika001/leetcodepython/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arvika001/leetcodepython/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/Arvika001/leetcodepython/tree/master/3885-count-special-triplets) |
 ## Prefix Sum
 |  |
