@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Arvika001/leetcodepython/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Arvika001/leetcodepython/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Arvika001/leetcodepython/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/Arvika001/leetcodepython/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arvika001/leetcodepython/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Arvika001/leetcodepython/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arvika001/leetcodepython/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -799,6 +800,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arvika001/leetcodepython/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Arvika001/leetcodepython/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Arvika001/leetcodepython/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/Arvika001/leetcodepython/tree/master/3678-design-task-manager) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Arvika001/leetcodepython/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Simulation
 |  |
@@ -969,6 +971,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2280-count-good-triplets-in-an-array](https://github.com/Arvika001/leetcodepython/tree/master/2280-count-good-triplets-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Arvika001/leetcodepython/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/Arvika001/leetcodepython/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Arvika001/leetcodepython/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/Arvika001/leetcodepython/tree/master/3791-fruits-into-baskets-iii) |
 ## Monotonic Queue
 |  |
@@ -1018,6 +1021,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Arvika001/leetcodepython/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Arvika001/leetcodepython/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/Arvika001/leetcodepython/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Arvika001/leetcodepython/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
