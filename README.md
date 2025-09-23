@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Arvika001/leetcodepython/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Arvika001/leetcodepython/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Arvika001/leetcodepython/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/Arvika001/leetcodepython/tree/master/0165-compare-version-numbers) |
 | [0224-basic-calculator](https://github.com/Arvika001/leetcodepython/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arvika001/leetcodepython/tree/master/0345-reverse-vowels-of-a-string) |
 | [0385-mini-parser](https://github.com/Arvika001/leetcodepython/tree/master/0385-mini-parser) |
@@ -772,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Arvika001/leetcodepython/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Arvika001/leetcodepython/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Arvika001/leetcodepython/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/Arvika001/leetcodepython/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/Arvika001/leetcodepython/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arvika001/leetcodepython/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Arvika001/leetcodepython/tree/master/0392-is-subsequence) |
