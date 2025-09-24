@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Arvika001/leetcodepython/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Arvika001/leetcodepython/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Arvika001/leetcodepython/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Arvika001/leetcodepython/tree/master/0166-fraction-to-recurring-decimal) |
 | [0409-longest-palindrome](https://github.com/Arvika001/leetcodepython/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arvika001/leetcodepython/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Arvika001/leetcodepython/tree/master/0768-partition-labels) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Arvika001/leetcodepython/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Arvika001/leetcodepython/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Arvika001/leetcodepython/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Arvika001/leetcodepython/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/Arvika001/leetcodepython/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arvika001/leetcodepython/tree/master/0345-reverse-vowels-of-a-string) |
 | [0385-mini-parser](https://github.com/Arvika001/leetcodepython/tree/master/0385-mini-parser) |
@@ -687,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0060-permutation-sequence](https://github.com/Arvika001/leetcodepython/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/Arvika001/leetcodepython/tree/master/0067-add-binary) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Arvika001/leetcodepython/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/Arvika001/leetcodepython/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Arvika001/leetcodepython/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Arvika001/leetcodepython/tree/master/0326-power-of-three) |
