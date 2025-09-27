@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Arvika001/leetcodepython/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Arvika001/leetcodepython/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/Arvika001/leetcodepython/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/Arvika001/leetcodepython/tree/master/0830-largest-triangle-area) |
 | [0833-bus-routes](https://github.com/Arvika001/leetcodepython/tree/master/0833-bus-routes) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Arvika001/leetcodepython/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arvika001/leetcodepython/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -705,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0679-24-game](https://github.com/Arvika001/leetcodepython/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Arvika001/leetcodepython/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Arvika001/leetcodepython/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/Arvika001/leetcodepython/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Arvika001/leetcodepython/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Arvika001/leetcodepython/tree/master/0900-reordered-power-of-2) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Arvika001/leetcodepython/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -1104,6 +1106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Arvika001/leetcodepython/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Arvika001/leetcodepython/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Arvika001/leetcodepython/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Rolling Hash
