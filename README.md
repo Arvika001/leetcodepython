@@ -727,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1617-stone-game-iv](https://github.com/Arvika001/leetcodepython/tree/master/1617-stone-game-iv) |
 | [1635-number-of-good-pairs](https://github.com/Arvika001/leetcodepython/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Arvika001/leetcodepython/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1642-water-bottles](https://github.com/Arvika001/leetcodepython/tree/master/1642-water-bottles) |
 | [1727-cat-and-mouse-ii](https://github.com/Arvika001/leetcodepython/tree/master/1727-cat-and-mouse-ii) |
 | [1836-count-ways-to-make-array-with-product](https://github.com/Arvika001/leetcodepython/tree/master/1836-count-ways-to-make-array-with-product) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Arvika001/leetcodepython/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -843,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/Arvika001/leetcodepython/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Arvika001/leetcodepython/tree/master/0735-asteroid-collision) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Arvika001/leetcodepython/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1642-water-bottles](https://github.com/Arvika001/leetcodepython/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/Arvika001/leetcodepython/tree/master/2048-build-array-from-permutation) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Arvika001/leetcodepython/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Arvika001/leetcodepython/tree/master/2408-number-of-people-aware-of-a-secret) |
