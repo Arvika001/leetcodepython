@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Arvika001/leetcodepython/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Arvika001/leetcodepython/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Arvika001/leetcodepython/tree/master/0045-jump-game-ii) |
+| [0066-plus-one](https://github.com/Arvika001/leetcodepython/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Arvika001/leetcodepython/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Arvika001/leetcodepython/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Arvika001/leetcodepython/tree/master/0118-pascals-triangle) |
@@ -706,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Arvika001/leetcodepython/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Arvika001/leetcodepython/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Arvika001/leetcodepython/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Arvika001/leetcodepython/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/Arvika001/leetcodepython/tree/master/0224-basic-calculator) |
