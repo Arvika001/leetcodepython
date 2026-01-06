@@ -535,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/Arvika001/leetcodepython/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Arvika001/leetcodepython/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/Arvika001/leetcodepython/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
@@ -558,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0871-keys-and-rooms](https://github.com/Arvika001/leetcodepython/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Arvika001/leetcodepython/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Arvika001/leetcodepython/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -580,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/Arvika001/leetcodepython/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Arvika001/leetcodepython/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Queue
@@ -642,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0871-keys-and-rooms](https://github.com/Arvika001/leetcodepython/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/Arvika001/leetcodepython/tree/master/0945-snakes-and-ladders) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Arvika001/leetcodepython/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Arvika001/leetcodepython/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Arvika001/leetcodepython/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
