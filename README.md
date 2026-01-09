@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Arvika001/leetcodepython/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Arvika001/leetcodepython/tree/master/0797-rabbits-in-forest) |
 | [0833-bus-routes](https://github.com/Arvika001/leetcodepython/tree/master/0833-bus-routes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arvika001/leetcodepython/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/Arvika001/leetcodepython/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Arvika001/leetcodepython/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Arvika001/leetcodepython/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -535,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/Arvika001/leetcodepython/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Arvika001/leetcodepython/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Arvika001/leetcodepython/tree/master/0783-search-in-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arvika001/leetcodepython/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Arvika001/leetcodepython/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -559,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Arvika001/leetcodepython/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Arvika001/leetcodepython/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/Arvika001/leetcodepython/tree/master/0547-number-of-provinces) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arvika001/leetcodepython/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Arvika001/leetcodepython/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Arvika001/leetcodepython/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -584,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/Arvika001/leetcodepython/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Arvika001/leetcodepython/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Arvika001/leetcodepython/tree/master/0783-search-in-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arvika001/leetcodepython/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Arvika001/leetcodepython/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -647,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Arvika001/leetcodepython/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Arvika001/leetcodepython/tree/master/0547-number-of-provinces) |
 | [0833-bus-routes](https://github.com/Arvika001/leetcodepython/tree/master/0833-bus-routes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arvika001/leetcodepython/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Arvika001/leetcodepython/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/Arvika001/leetcodepython/tree/master/0945-snakes-and-ladders) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Arvika001/leetcodepython/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
