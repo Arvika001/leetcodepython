@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Arvika001/leetcodepython/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/Arvika001/leetcodepython/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Arvika001/leetcodepython/tree/master/0443-string-compression) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Arvika001/leetcodepython/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/Arvika001/leetcodepython/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Arvika001/leetcodepython/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0868-push-dominoes](https://github.com/Arvika001/leetcodepython/tree/master/0868-push-dominoes) |
@@ -483,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Arvika001/leetcodepython/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Arvika001/leetcodepython/tree/master/0416-partition-equal-subset-sum) |
 | [0552-student-attendance-record-ii](https://github.com/Arvika001/leetcodepython/tree/master/0552-student-attendance-record-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Arvika001/leetcodepython/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/Arvika001/leetcodepython/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Arvika001/leetcodepython/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Arvika001/leetcodepython/tree/master/0867-new-21-game) |
