@@ -329,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Arvika001/leetcodepython/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/Arvika001/leetcodepython/tree/master/3430-count-days-without-meetings) |
 | [3453-separate-squares-i](https://github.com/Arvika001/leetcodepython/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Arvika001/leetcodepython/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Arvika001/leetcodepython/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Arvika001/leetcodepython/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/Arvika001/leetcodepython/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Arvika001/leetcodepython/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Arvika001/leetcodepython/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3453-separate-squares-i](https://github.com/Arvika001/leetcodepython/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Arvika001/leetcodepython/tree/master/3454-separate-squares-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Arvika001/leetcodepython/tree/master/3643-zero-array-transformation-ii) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/Arvika001/leetcodepython/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/Arvika001/leetcodepython/tree/master/3706-smallest-substring-with-identical-characters-ii) |
@@ -1051,6 +1053,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Arvika001/leetcodepython/tree/master/2280-count-good-triplets-in-an-array) |
+| [3454-separate-squares-ii](https://github.com/Arvika001/leetcodepython/tree/master/3454-separate-squares-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Arvika001/leetcodepython/tree/master/3791-fruits-into-baskets-iii) |
 ## Merge Sort
 |  |
@@ -1184,4 +1187,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/Arvika001/leetcodepython/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Arvika001/leetcodepython/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
